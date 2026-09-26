@@ -1,0 +1,16 @@
+{
+  "disclaimer": "Fictional demo benchmarks for product testing; not appraisal data.",
+  "benchmarks": [
+    {"shape":"Round","carat":1.0,"low":650,"high":1050,"sweet":825},
+    {"shape":"Round","carat":1.5,"low":900,"high":1450,"sweet":1125},
+    {"shape":"Round","carat":2.0,"low":1150,"high":1900,"sweet":1450},
+    {"shape":"Oval","carat":1.0,"low":600,"high":950,"sweet":760},
+    {"shape":"Oval","carat":1.5,"low":820,"high":1320,"sweet":1025},
+    {"shape":"Oval","carat":2.0,"low":1050,"high":1700,"sweet":1325},
+    {"shape":"Emerald","carat":1.0,"low":580,"high":920,"sweet":735},
+    {"shape":"Emerald","carat":1.5,"low":780,"high":1250,"sweet":980},
+    {"shape":"Emerald","carat":2.0,"low":980,"high":1580,"sweet":1230}
+  ],
+  "settingAllowance":{"solitaire":650,"halo":1050,"three-stone":1450},
+  "certificateIssuers":["IGI","GIA","GCAL"]
+}
